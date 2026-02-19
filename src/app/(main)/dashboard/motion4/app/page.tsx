@@ -104,7 +104,7 @@ export default function Page() {
       </Field>
       <Field orientation="horizontal" data-disabled>
 
-        <FieldLabel htmlFor="toggle-checkbox">Enable notifications</FieldLabel>
+        <FieldLabel htmlFor="toggle-checkbox"></FieldLabel>
       </Field>
       <FieldLabel>
         <Field orientation="horizontal">
