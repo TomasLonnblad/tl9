@@ -95,16 +95,10 @@ export default function Page() {
 
         <FieldContent>
           <FieldLabel htmlFor="terms-checkbox-2">
-                  <Badge className="bg-purple-50 text-purple-700 dark:bg-purple-950 dark:text-purple-300">
-      
-            Accept terms and conditions
-             </Badge>
+
           </FieldLabel>
           <FieldDescription>
-                  <Badge className="bg-red-50 text-red-700 dark:bg-red-950 dark:text-red-300">
-     
-            By clicking this checkbox, you agree to the terms.
-             </Badge>
+
           </FieldDescription>
         </FieldContent>
       </Field>
